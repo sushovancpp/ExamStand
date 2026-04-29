@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "SBI PO Sample Mock Test",
+    "totalTime": 3600
+  },
+  "sections": [
+    {
+      "name": "Reasoning",
+      "id": "reasoning",
+      "time": 1200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "In a row of 40 students, Ravi is 11th from the left. What is his position from the right?",
+          "options": ["A. 29th", "B. 30th", "C. 31st", "D. 32nd"],
+          "correct": 1,
+          "difficulty": "Easy",
+          "topic": "Order & Ranking",
+          "explanation": "Position from right = Total + 1 − Position from left = 40 + 1 − 11 = 30."
+        },
+        {
+          "id": 2,
+          "question": "Pointing to a photograph, Ravi says, 'He is the son of the only son of my grandfather.' How is the man related to Ravi?",
+          "options": ["A. Uncle", "B. Father", "C. Brother", "D. Cousin"],
+          "correct": 2,
+          "difficulty": "Medium",
+          "topic": "Blood Relations",
+          "explanation": "Only son of grandfather = father. Son of father = brother."
+        }
+      ]
+    },
+    {
+      "name": "Quantitative Aptitude",
+      "id": "quant",
+      "time": 1200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "A shopkeeper sells an article at Rs. 540 earning a profit of 35%. What was the cost price?",
+          "options": ["A. Rs. 380", "B. Rs. 400", "C. Rs. 420", "D. Rs. 450"],
+          "correct": 1,
+          "difficulty": "Medium",
+          "topic": "Profit & Loss",
+          "explanation": "CP = 540 × 100 / 135 = Rs. 400."
+        }
+      ]
+    },
+    {
+      "name": "English Language",
+      "id": "english",
+      "time": 1200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Choose the word most similar in meaning to BENEVOLENT:",
+          "options": ["A. Hostile", "B. Kind", "C. Selfish", "D. Arrogant"],
+          "correct": 1,
+          "difficulty": "Easy",
+          "topic": "Synonyms",
+          "explanation": "Benevolent means well-meaning and kind."
+        }
+      ]
+    }
+  ]
+}
