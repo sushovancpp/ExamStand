@@ -36,6 +36,18 @@ const TOPIC_MAP = {
     'Phrase Replacement',
     'Connectors',
   ],
+  it_professional: [
+    'Data Structures & Algorithms',
+    'Database Management Systems (DBMS)',
+    'Operating Systems',
+    'Computer Networks & Protocols',
+    'Object-Oriented Programming (OOP)',
+    'Software Engineering & SDLC',
+    'Web Technologies (HTML/CSS/JS)',
+    'Cybersecurity & Cryptography',
+    'Cloud Computing',
+    'Programming Languages (C/C++/Java/Python)',
+  ],
 }
 
 const DIFFICULTY_DESC = {
